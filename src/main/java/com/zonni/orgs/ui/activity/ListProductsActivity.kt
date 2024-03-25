@@ -5,7 +5,9 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.zonni.orgs.dao.ProductDAO
 import com.zonni.orgs.databinding.ListProductsMainBinding
+import com.zonni.orgs.modelo.Product
 import com.zonni.orgs.ui.reciclerview.adapter.ListaProdutosAdapter
+import java.math.BigDecimal
 
 class ListProductsActivity : AppCompatActivity() {
 

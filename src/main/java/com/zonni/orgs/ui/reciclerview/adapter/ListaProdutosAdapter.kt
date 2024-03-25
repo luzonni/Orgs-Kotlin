@@ -6,9 +6,11 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import coil.load
 import com.zonni.orgs.R
 import com.zonni.orgs.databinding.ListProductsMainBinding
 import com.zonni.orgs.databinding.ProductItemBinding
+import com.zonni.orgs.extensions.loadWithURL
 import com.zonni.orgs.modelo.Product
 import java.math.BigDecimal
 import java.text.NumberFormat
@@ -28,6 +30,13 @@ class ListaProdutosAdapter(
             title.text = product.nome
             binding.productItemConteudo.text = product.descriptor
             binding.productItemValor.text = format_br(product.price)
+            val visibilidade = if(product.urlThumb != null) {
+                View.VISIBLE
+            }else {
+                View.GONE
+            }
+            binding.productItemImage.visibility = visibilidade
+            binding.productItemImage.loadWithURL(product.urlThumb)
         }
 
         private fun format_br(valor: BigDecimal): String {
