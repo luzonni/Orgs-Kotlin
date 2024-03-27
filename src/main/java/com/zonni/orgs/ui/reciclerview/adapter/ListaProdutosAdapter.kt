@@ -4,11 +4,7 @@ import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import coil.load
-import com.zonni.orgs.R
-import com.zonni.orgs.databinding.ListProductsMainBinding
 import com.zonni.orgs.databinding.ProductItemBinding
 import com.zonni.orgs.extensions.loadWithURL
 import com.zonni.orgs.modelo.Product
@@ -18,18 +14,27 @@ import java.util.Locale
 
 class ListaProdutosAdapter(
     private val context :Context,
-    products: List<Product>
+    products: List<Product>,
+    var whenClickOnItem: (product: Product) -> Unit = {}
 ) : RecyclerView.Adapter<ListaProdutosAdapter.ViewHolder>() {
 
     private val products = products.toMutableList()
 
-    class ViewHolder(private val binding: ProductItemBinding) : RecyclerView.ViewHolder(binding.root) {
+    inner class ViewHolder(private val binding: ProductItemBinding) : RecyclerView.ViewHolder(binding.root){
 
+        private lateinit var product: Product
+        init {
+            itemView.setOnClickListener {
+                if(::product.isInitialized) {
+                    whenClickOnItem(product)
+                }
+            }
+        }
         fun vincula(product: Product) {
             val title = binding.productItemTitulo
             title.text = product.nome
             binding.productItemConteudo.text = product.descriptor
-            binding.productItemValor.text = format_br(product.price)
+            binding.productItemValor.text = product.formattedPrice()
             val visibilidade = if(product.urlThumb != null) {
                 View.VISIBLE
             }else {
@@ -37,12 +42,7 @@ class ListaProdutosAdapter(
             }
             binding.productItemImage.visibility = visibilidade
             binding.productItemImage.loadWithURL(product.urlThumb)
-        }
-
-        private fun format_br(valor: BigDecimal): String {
-            val formater: NumberFormat = NumberFormat.getCurrencyInstance(Locale("pt", "br"))
-            val valorEmMoeda: String = formater.format(valor)
-            return valorEmMoeda
+            this.product = product
         }
 
     }

@@ -2,12 +2,11 @@ package com.zonni.orgs.ui.activity
 
 import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import com.zonni.orgs.dao.ProductDAO
 import com.zonni.orgs.databinding.ListProductsMainBinding
-import com.zonni.orgs.modelo.Product
 import com.zonni.orgs.ui.reciclerview.adapter.ListaProdutosAdapter
-import java.math.BigDecimal
 
 class ListProductsActivity : AppCompatActivity() {
 
@@ -44,6 +43,15 @@ class ListProductsActivity : AppCompatActivity() {
     private fun configRecyclerView() {
         val recyclerView = biding.listaProdutos
         recyclerView.adapter = adapter
+        adapter.whenClickOnItem = {
+            val intent = Intent(this, ProductSpecificationActivity::class.java).apply {
+                putExtra("urlThumb", it.urlThumb)
+                putExtra("title", it.nome)
+                putExtra("content", it.descriptor)
+                putExtra("price", it.formattedPrice())
+            }
+            startActivity(intent)
+        }
     }
 
 }

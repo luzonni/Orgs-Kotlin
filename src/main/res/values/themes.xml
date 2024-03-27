@@ -14,4 +14,9 @@
         <!-- Customize your theme here. -->
         <item name="fontFamily">@font/montserrat</item>
     </style>
+    <style name="Theme.Orgs.NoActionBar" parent="Theme.Orgs">
+        <!-- Remoção da App bar para o estilo -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
 </resources>
