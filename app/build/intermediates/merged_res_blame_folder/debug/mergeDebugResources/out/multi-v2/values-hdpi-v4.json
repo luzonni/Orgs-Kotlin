@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.zonni.orgs.app-mergeDebugResources-64:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lukke\\.gradle\\caches\\transforms-3\\1dab40569db5b6a85cb2b8e6ffb2dd1b\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

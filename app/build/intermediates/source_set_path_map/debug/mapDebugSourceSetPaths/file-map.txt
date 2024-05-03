@@ -1,0 +1,68 @@
+com.zonni.orgs.app-foundation-release-0 C:\Users\Lukke\.gradle\caches\transforms-3\0dcff79d20e10b64775e1999a664f199\transformed\foundation-release\res
+com.zonni.orgs.app-material3-1.1.1-1 C:\Users\Lukke\.gradle\caches\transforms-3\0e4243e6a74bc83c035bee6837064cc1\transformed\material3-1.1.1\res
+com.zonni.orgs.app-material-release-2 C:\Users\Lukke\.gradle\caches\transforms-3\1bd80196eda762a2106dc62ca183c38e\transformed\material-release\res
+com.zonni.orgs.app-appcompat-1.6.1-3 C:\Users\Lukke\.gradle\caches\transforms-3\1dab40569db5b6a85cb2b8e6ffb2dd1b\transformed\appcompat-1.6.1\res
+com.zonni.orgs.app-lifecycle-livedata-core-ktx-2.7.0-4 C:\Users\Lukke\.gradle\caches\transforms-3\2242acee40c479196090e5fade670129\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.zonni.orgs.app-fragment-1.3.6-5 C:\Users\Lukke\.gradle\caches\transforms-3\23e72434f8a9e8fa25e4fe24f92a9350\transformed\fragment-1.3.6\res
+com.zonni.orgs.app-material-ripple-release-6 C:\Users\Lukke\.gradle\caches\transforms-3\25a3efe4d7da8b27323d421fd734d9d1\transformed\material-ripple-release\res
+com.zonni.orgs.app-core-ktx-1.12.0-7 C:\Users\Lukke\.gradle\caches\transforms-3\26c9d1c3e410a4b9bb49b707d8d61335\transformed\core-ktx-1.12.0\res
+com.zonni.orgs.app-animation-release-8 C:\Users\Lukke\.gradle\caches\transforms-3\2d7f296a26c6f33817c7acba60cd62ab\transformed\animation-release\res
+com.zonni.orgs.app-recyclerview-1.3.2-9 C:\Users\Lukke\.gradle\caches\transforms-3\34a00951834c2a67c09a6f26169b33c4\transformed\recyclerview-1.3.2\res
+com.zonni.orgs.app-lifecycle-viewmodel-2.7.0-10 C:\Users\Lukke\.gradle\caches\transforms-3\34b8a3e0db8c71d715a1f4802e2755a7\transformed\lifecycle-viewmodel-2.7.0\res
+com.zonni.orgs.app-ui-text-release-11 C:\Users\Lukke\.gradle\caches\transforms-3\350dff5188721ad212c4d3d128b9a910\transformed\ui-text-release\res
+com.zonni.orgs.app-runtime-release-12 C:\Users\Lukke\.gradle\caches\transforms-3\39edc35bcff6b1aaa798f2094c626665\transformed\runtime-release\res
+com.zonni.orgs.app-appcompat-resources-1.6.1-13 C:\Users\Lukke\.gradle\caches\transforms-3\426658081350ee339197f00c38f163c8\transformed\appcompat-resources-1.6.1\res
+com.zonni.orgs.app-material-1.9.0-14 C:\Users\Lukke\.gradle\caches\transforms-3\48ec12ed5f3a00ecc6f20b8997661159\transformed\material-1.9.0\res
+com.zonni.orgs.app-startup-runtime-1.1.1-15 C:\Users\Lukke\.gradle\caches\transforms-3\48f7348ddc2fa05523334249d6bd275c\transformed\startup-runtime-1.1.1\res
+com.zonni.orgs.app-ui-util-release-16 C:\Users\Lukke\.gradle\caches\transforms-3\4a2158089b2dd5c1c0bfbc69d057508e\transformed\ui-util-release\res
+com.zonni.orgs.app-lifecycle-livedata-2.7.0-17 C:\Users\Lukke\.gradle\caches\transforms-3\51f99f73f768a3c4cd865f9926797e59\transformed\lifecycle-livedata-2.7.0\res
+com.zonni.orgs.app-material-icons-core-release-18 C:\Users\Lukke\.gradle\caches\transforms-3\52863530642218e9ff72b32cde5d6dd7\transformed\material-icons-core-release\res
+com.zonni.orgs.app-activity-compose-1.7.0-19 C:\Users\Lukke\.gradle\caches\transforms-3\554b48475e3468947f77cc16bee8f642\transformed\activity-compose-1.7.0\res
+com.zonni.orgs.app-cardview-1.0.0-20 C:\Users\Lukke\.gradle\caches\transforms-3\557a254a4b38a1864c25a10efacebcad\transformed\cardview-1.0.0\res
+com.zonni.orgs.app-ui-unit-release-21 C:\Users\Lukke\.gradle\caches\transforms-3\563ba50db17b3a9507b7235de27f2d73\transformed\ui-unit-release\res
+com.zonni.orgs.app-datastore-release-22 C:\Users\Lukke\.gradle\caches\transforms-3\5e33272bd960e1dc19270a0a533a5d2d\transformed\datastore-release\res
+com.zonni.orgs.app-coordinatorlayout-1.1.0-23 C:\Users\Lukke\.gradle\caches\transforms-3\6546f8f2480334e99e7710178392a901\transformed\coordinatorlayout-1.1.0\res
+com.zonni.orgs.app-constraintlayout-2.1.4-24 C:\Users\Lukke\.gradle\caches\transforms-3\65c132b3b55433f0ec475418e5678e80\transformed\constraintlayout-2.1.4\res
+com.zonni.orgs.app-sqlite-framework-2.4.0-25 C:\Users\Lukke\.gradle\caches\transforms-3\670a49274fe2a231398e870524cd7818\transformed\sqlite-framework-2.4.0\res
+com.zonni.orgs.app-profileinstaller-1.3.1-26 C:\Users\Lukke\.gradle\caches\transforms-3\6766d47f07fcd28875de9522e8e97f39\transformed\profileinstaller-1.3.1\res
+com.zonni.orgs.app-transition-1.2.0-27 C:\Users\Lukke\.gradle\caches\transforms-3\6a268425cd393757f3365602c3231f22\transformed\transition-1.2.0\res
+com.zonni.orgs.app-drawerlayout-1.1.1-28 C:\Users\Lukke\.gradle\caches\transforms-3\6c78fd44136f510a2fa97a707f0952d8\transformed\drawerlayout-1.1.1\res
+com.zonni.orgs.app-emoji2-1.4.0-29 C:\Users\Lukke\.gradle\caches\transforms-3\6e304db6c7d1d5dbd04af47990bcb250\transformed\emoji2-1.4.0\res
+com.zonni.orgs.app-lifecycle-process-2.7.0-30 C:\Users\Lukke\.gradle\caches\transforms-3\727ff7e760cc1ead6a13c7953cace02d\transformed\lifecycle-process-2.7.0\res
+com.zonni.orgs.app-savedstate-1.2.1-31 C:\Users\Lukke\.gradle\caches\transforms-3\76b3d007def11b9912ccf3de83021636\transformed\savedstate-1.2.1\res
+com.zonni.orgs.app-sqlite-2.4.0-32 C:\Users\Lukke\.gradle\caches\transforms-3\7d14e4c0a1586d9c48df3ac8f780a978\transformed\sqlite-2.4.0\res
+com.zonni.orgs.app-ui-test-manifest-1.5.0-33 C:\Users\Lukke\.gradle\caches\transforms-3\7df12379f22fa4bc9f4780aeda039c3a\transformed\ui-test-manifest-1.5.0\res
+com.zonni.orgs.app-activity-ktx-1.7.0-34 C:\Users\Lukke\.gradle\caches\transforms-3\89e12b16d2465b9e885c2ca35a5275e4\transformed\activity-ktx-1.7.0\res
+com.zonni.orgs.app-savedstate-ktx-1.2.1-35 C:\Users\Lukke\.gradle\caches\transforms-3\8b995cb853a1ae13eb06b776d82701c1\transformed\savedstate-ktx-1.2.1\res
+com.zonni.orgs.app-customview-poolingcontainer-1.0.0-36 C:\Users\Lukke\.gradle\caches\transforms-3\8bb9dbc7820a5dfc8dbc43c223f6e285\transformed\customview-poolingcontainer-1.0.0\res
+com.zonni.orgs.app-room-ktx-2.6.1-37 C:\Users\Lukke\.gradle\caches\transforms-3\9546d0b52030a580f515dbf390813285\transformed\room-ktx-2.6.1\res
+com.zonni.orgs.app-activity-1.7.0-38 C:\Users\Lukke\.gradle\caches\transforms-3\97f75471f1838a6cd4c908696ff832a6\transformed\activity-1.7.0\res
+com.zonni.orgs.app-datastore-preferences-release-39 C:\Users\Lukke\.gradle\caches\transforms-3\9b351abff9fa8c88f0cb7f52c89ee0ea\transformed\datastore-preferences-release\res
+com.zonni.orgs.app-lifecycle-runtime-2.7.0-40 C:\Users\Lukke\.gradle\caches\transforms-3\9f28a9a0829f5015d89bdda651f1f29e\transformed\lifecycle-runtime-2.7.0\res
+com.zonni.orgs.app-animation-core-release-41 C:\Users\Lukke\.gradle\caches\transforms-3\a7fed1f9865624104daa3fa94268cc81\transformed\animation-core-release\res
+com.zonni.orgs.app-foundation-layout-release-42 C:\Users\Lukke\.gradle\caches\transforms-3\ab4c4c615139e684578324872b447775\transformed\foundation-layout-release\res
+com.zonni.orgs.app-ui-graphics-release-43 C:\Users\Lukke\.gradle\caches\transforms-3\ab73dfbc11119c2934cfb304a942d61a\transformed\ui-graphics-release\res
+com.zonni.orgs.app-runtime-saveable-release-44 C:\Users\Lukke\.gradle\caches\transforms-3\bace8cf2b7e3a801602c5c6e19c05949\transformed\runtime-saveable-release\res
+com.zonni.orgs.app-viewpager2-1.1.0-beta02-45 C:\Users\Lukke\.gradle\caches\transforms-3\bfab7dd2be92400cfe7f73fbf31ef005\transformed\viewpager2-1.1.0-beta02\res
+com.zonni.orgs.app-emoji2-views-helper-1.4.0-46 C:\Users\Lukke\.gradle\caches\transforms-3\c01868f2c10dc9ceee21de8bd981613f\transformed\emoji2-views-helper-1.4.0\res
+com.zonni.orgs.app-annotation-experimental-1.3.0-47 C:\Users\Lukke\.gradle\caches\transforms-3\c30157e8eced9813a84332885b7ca221\transformed\annotation-experimental-1.3.0\res
+com.zonni.orgs.app-core-1.12.0-48 C:\Users\Lukke\.gradle\caches\transforms-3\c54c441534b06569b6816f499b9c2710\transformed\core-1.12.0\res
+com.zonni.orgs.app-ui-release-49 C:\Users\Lukke\.gradle\caches\transforms-3\caa63ebe9a868745c0b8c9a45d2a5348\transformed\ui-release\res
+com.zonni.orgs.app-lifecycle-viewmodel-ktx-2.7.0-50 C:\Users\Lukke\.gradle\caches\transforms-3\cad0635671943571b6b022aab03c41fc\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.zonni.orgs.app-lifecycle-runtime-ktx-2.7.0-51 C:\Users\Lukke\.gradle\caches\transforms-3\d0215055f80361ec41b00f1effa4e3dc\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.zonni.orgs.app-datastore-core-release-52 C:\Users\Lukke\.gradle\caches\transforms-3\d1778837f2bfb39bc4c54a9dd8b76df8\transformed\datastore-core-release\res
+com.zonni.orgs.app-ui-tooling-release-53 C:\Users\Lukke\.gradle\caches\transforms-3\d1a9ae759f08a18d772f5ad5b70fc7fa\transformed\ui-tooling-release\res
+com.zonni.orgs.app-lifecycle-livedata-core-2.7.0-54 C:\Users\Lukke\.gradle\caches\transforms-3\d26912adec86742751b9560cdda479fd\transformed\lifecycle-livedata-core-2.7.0\res
+com.zonni.orgs.app-lifecycle-viewmodel-savedstate-2.7.0-55 C:\Users\Lukke\.gradle\caches\transforms-3\db1e47b0bd2d70fb62888ec6c417b8b6\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.zonni.orgs.app-ui-tooling-preview-release-56 C:\Users\Lukke\.gradle\caches\transforms-3\db95eb603493db4b28233fcbfde39af0\transformed\ui-tooling-preview-release\res
+com.zonni.orgs.app-core-runtime-2.2.0-57 C:\Users\Lukke\.gradle\caches\transforms-3\e08cde68145cd33b7a215105060aa309\transformed\core-runtime-2.2.0\res
+com.zonni.orgs.app-ui-tooling-data-release-58 C:\Users\Lukke\.gradle\caches\transforms-3\e5f784acddb75008d38f4c713d079bc5\transformed\ui-tooling-data-release\res
+com.zonni.orgs.app-coil-base-2.6.0-59 C:\Users\Lukke\.gradle\caches\transforms-3\e92b7af2da9308e0d803e67dfc1777d5\transformed\coil-base-2.6.0\res
+com.zonni.orgs.app-room-runtime-2.6.1-60 C:\Users\Lukke\.gradle\caches\transforms-3\f22c7f2e486a7e836895f7488029e2b1\transformed\room-runtime-2.6.1\res
+com.zonni.orgs.app-ui-geometry-release-61 C:\Users\Lukke\.gradle\caches\transforms-3\f442704081c073fb835d206e3ba34987\transformed\ui-geometry-release\res
+com.zonni.orgs.app-resValues-62 D:\Projetos\Alura\Curso - Android Studio\Orgs\app\build\generated\res\resValues\debug
+com.zonni.orgs.app-packageDebugResources-63 D:\Projetos\Alura\Curso - Android Studio\Orgs\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.zonni.orgs.app-packageDebugResources-64 D:\Projetos\Alura\Curso - Android Studio\Orgs\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.zonni.orgs.app-debug-65 D:\Projetos\Alura\Curso - Android Studio\Orgs\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.zonni.orgs.app-debug-66 D:\Projetos\Alura\Curso - Android Studio\Orgs\app\src\debug\res
+com.zonni.orgs.app-main-67 D:\Projetos\Alura\Curso - Android Studio\Orgs\app\src\main\res

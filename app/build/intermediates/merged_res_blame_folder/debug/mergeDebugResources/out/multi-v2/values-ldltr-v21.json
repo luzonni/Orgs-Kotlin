@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.zonni.orgs.app-mergeDebugResources-64:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Lukke\\.gradle\\caches\\transforms-3\\1dab40569db5b6a85cb2b8e6ffb2dd1b\\transformed\\appcompat-1.6.1\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

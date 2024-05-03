@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.zonni.orgs.app-mergeDebugResources-58:/layout/activity_form_product.xml",
+        "source": "com.zonni.orgs.app-main-61:/layout/activity_form_product.xml"
+    },
+    {
+        "merged": "com.zonni.orgs.app-mergeDebugResources-58:/layout/product_item.xml",
+        "source": "com.zonni.orgs.app-main-61:/layout/product_item.xml"
+    },
+    {
+        "merged": "com.zonni.orgs.app-mergeDebugResources-58:/layout/list_products_main.xml",
+        "source": "com.zonni.orgs.app-main-61:/layout/list_products_main.xml"
+    },
+    {
+        "merged": "com.zonni.orgs.app-mergeDebugResources-58:/layout/form_image.xml",
+        "source": "com.zonni.orgs.app-main-61:/layout/form_image.xml"
+    }
+]

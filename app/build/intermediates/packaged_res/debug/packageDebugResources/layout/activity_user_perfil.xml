@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/activity_user_perfil_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="username"
+        android:textSize="26sp"
+        android:layout_marginTop="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/activity_user_perfil_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="name"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="@+id/activity_user_perfil_username"
+        app:layout_constraintStart_toStartOf="@+id/activity_user_perfil_username"
+        app:layout_constraintTop_toBottomOf="@+id/activity_user_perfil_username" />
+
+    <Button
+        android:id="@+id/activity_user_perfil_button_logout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_exit_shape"
+        android:text="Logout"
+        app:icon="@drawable/ic_exit"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/activity_user_perfil_name"
+        app:layout_constraintStart_toStartOf="@+id/activity_user_perfil_name"
+        app:layout_constraintTop_toBottomOf="@+id/activity_user_perfil_name"
+        app:layout_constraintVertical_bias="0.13" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable-mdpi_erro.png.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable-mdpi\\erro.png"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\layout_activity_form_product.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\activity_form_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\font_montserrat_medium.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\font\\montserrat_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable-hdpi_imagem_padrao.png.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable-hdpi\\imagem_padrao.png"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\layout_activity_all_products.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\activity_all_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable-xxhdpi_imagem_padrao.png.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable-xxhdpi\\imagem_padrao.png"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable-xxxhdpi_imagem_padrao.png.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable-xxxhdpi\\imagem_padrao.png"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\layout_header_products.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\header_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable-ldpi_erro.png.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable-ldpi\\erro.png"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\menu_menu_list_products.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\menu\\menu_list_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\layout_activity_register_user.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\activity_register_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_ic_exit.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\ic_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_ic_action_add.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\ic_action_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.zonni.orgs.app-debug-66:/layout_activity_form_product.xml.flat",
+        "source": "com.zonni.orgs.app-main-68:/layout/activity_form_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_orgs_logo.png.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\orgs_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\layout_form_image.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\form_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\layout_product_specification.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\product_specification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\layout_list_products_main.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\list_products_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_button_exit_shape.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\button_exit_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable-xxxhdpi_erro.png.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable-xxxhdpi\\erro.png"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable-mdpi_imagem_padrao.png.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable-mdpi\\imagem_padrao.png"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\font_montserrat.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\font\\montserrat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_ic_delet.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\ic_delet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_ic_edit.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\ic_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\layout_activity_user_perfil.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\activity_user_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_frutas_image.jpg.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\frutas_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_ic_action_edit.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\ic_action_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable-ldpi_imagem_padrao.png.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable-ldpi\\imagem_padrao.png"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable-xhdpi_erro.png.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable-xhdpi\\erro.png"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\menu_menu_details_product.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\menu\\menu_details_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable-xxhdpi_erro.png.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable-xxhdpi\\erro.png"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable-xhdpi_imagem_padrao.png.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable-xhdpi\\imagem_padrao.png"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_ic_all_products.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\ic_all_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_ic_egg.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\ic_egg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_ic_action_refresh.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\ic_action_refresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\layout_product_item.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\product_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable-hdpi_erro.png.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable-hdpi\\erro.png"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_placeholder.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_ic_action_delet.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\ic_action_delet.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\drawable_ic_launcher_zonni.xml.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\drawable\\ic_launcher_zonni.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-debug-66:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]

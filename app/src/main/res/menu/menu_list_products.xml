@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:icon="@drawable/ic_action_edit">
+
+
+
+    <item
+        android:id="@+id/menu_list_exit"
+        android:title="Exit"
+        android:icon="@drawable/ic_egg"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_all_products"
+        android:title="All Products"
+        android:icon="@drawable/ic_all_products"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menu_list_products_none"
+        android:title="None"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/menu_list_products_menu_name"
+        android:title="Name"
+        app:showAsAction="withText">
+        <menu>
+            <item
+                android:id="@+id/menu_list_products_name_ascending"
+                android:title="Ascending"
+                app:showAsAction="withText"/>
+            <item
+                android:id="@+id/menu_list_products_name_descending"
+                android:title="Descending"
+                app:showAsAction="withText"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/menu_list_products_menu_description"
+        android:title="Description"
+        app:showAsAction="withText">
+        <menu>
+            <item
+                android:id="@+id/menu_list_products_description_ascending"
+                android:title="Ascending"
+                app:showAsAction="withText"/>
+            <item
+                android:id="@+id/menu_list_products_description_descending"
+                android:title="Descending"
+                app:showAsAction="withText"/>
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/menu_list_products_menu_price"
+        android:title="Price"
+        app:showAsAction="withText">
+        <menu>
+            <item
+                android:id="@+id/menu_list_products_price_ascending"
+                android:title="Ascending"
+                app:showAsAction="withText"/>
+            <item
+                android:id="@+id/menu_list_products_price_descending"
+                android:title="Descending"
+                app:showAsAction="withText"/>
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-mergeDebugResources-65:\\layout\\product_specification.xml",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\product_specification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-mergeDebugResources-65:\\layout\\activity_form_product.xml",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\activity_form_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-mergeDebugResources-65:\\layout\\activity_all_products.xml",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\activity_all_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-mergeDebugResources-65:\\layout\\header_products.xml",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\header_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-mergeDebugResources-65:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-mergeDebugResources-65:\\layout\\product_item.xml",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\product_item.xml"
+    },
+    {
+        "merged": "com.zonni.orgs.app-mergeDebugResources-65:/layout/activity_form_product.xml",
+        "source": "com.zonni.orgs.app-main-68:/layout/activity_form_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-mergeDebugResources-65:\\layout\\activity_register_user.xml",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\activity_register_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-mergeDebugResources-65:\\layout\\form_image.xml",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\form_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-mergeDebugResources-65:\\layout\\activity_user_perfil.xml",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\activity_user_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-mergeDebugResources-65:\\layout\\list_products_main.xml",
+        "source": "C:\\Users\\Lukke\\.gradle\\daemon\\8.4\\com.zonni.orgs.app-main-68:\\layout\\list_products_main.xml"
+    }
+]

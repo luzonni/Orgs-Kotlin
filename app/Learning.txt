@@ -1,0 +1,16 @@
+Entidades
+    As entidades serão responsáveis em determinar quais serão as informações que queremos salvar no banco de dados. Como
+    é o caso do nosso modelo de produto. Podemos determinar como uma entidade para indicar que vamos salvar um produto
+    que vai ter nome, descrição, valor, imagem e assim por diante.
+
+DAO:
+    O DAO por sua vez vai utilizar a nossa entidade justamente para falar que a partir do produto eu quero salvar, eu quero
+    buscar, eu quero alterar, quero remover ou fazer qualquer tipo de outra operação comum em banco de dados, é ele que
+    determina isso. Só que para ele funcionar, ele precisa da nossa entidade.
+
+ROOM Database:
+    O Databse por sua vez vai ser o componente responsável em fazer a configuração geral do banco de dados. Só que para ele
+    fazer isso, ele precisa do nosso DAO, como também ele também vai precisar saber quais são as entidades que serão
+    utilizadas. Então percebe que considerando esse fluxo, considerando essa hierarquia de responsabilidade, vamos chamar
+    assim, precisamos de fato começar pelo mais baixo nível, que são as entidades, para depois ir para o DAO e então fazemos
+    o nosso Database.
